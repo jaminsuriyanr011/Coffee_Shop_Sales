@@ -1,6 +1,6 @@
 # Coffee_Shop_Sales
 
-# Coffee Shop Sales Analysis in Power BI
+# Coffee Shop Sales Analysis 
 📊 Overview
 This project provides a detailed Power BI dashboard that analyzes the sales performance of a coffee shop chain across multiple locations and timeframes. The goal is to uncover insights into customer behavior, product trends, and store performance to support data-driven decision-making.
 
